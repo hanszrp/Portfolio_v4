@@ -1,0 +1,99 @@
+.fixed-container{
+  width:960px;
+  max-width:none;
+  margin:0 auto;
+
+}
+.row.full-width {
+  width: 100%;
+  max-width: 100%; 
+  background-color: #65bccf;
+  margin-bottom: 3em;
+  padding-top: 1em;
+}
+.header, #footer {
+    float:left;
+    padding:15px 0;
+    width:100%;
+  }
+.header, #footer {
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0;
+margin-bottom: 0;
+max-width: 62.5rem;
+}
+.top-bar{
+  position:relative;
+}
+.pln {
+  padding-left: 0;
+}
+.plm{
+  padding-left: 15%;
+}
+.mtm {
+  margin-top: 2em;
+}
+.mln{
+  margin-left: 0;
+}
+.desc {
+  height:305px;
+  overflow:hidden;
+  
+}
+.project {
+  background-color: white;
+  margin-bottom: 2em;
+}
+.dasani {
+  background-color: #292c30;
+  margin-bottom: 2em;
+}
+.rethink {
+  background-color: darksalmon;
+  margin-bottom: 2em;
+}
+.kareo {
+  background-color: slategray;
+  margin-bottom: 2em;
+}
+.no-pad-right {
+padding-right: 0;
+}
+.no-pad-left{
+padding-left: 0;
+}
+.mbm{
+  margin-bottom: 1em;
+}
+.inline-list{
+  margin-left: 14em;
+}
+.inline-list a{
+  color:white;
+  margin-left:3em;
+
+}
+.nav {
+  padding-left: 7.2em;
+}
+h1 {
+  font-size: 2em;
+  color: #65bccf;
+  text-transform: uppercase;
+  line-height: 1.3em;
+  letter-spacing: 2px;
+}
+
+.weight1 {
+   font-family: "Helvetica";
+   font-weight: 700;
+   font-style: normal;
+   font-size: 2em;
+   line-height: 1em;
+   padding:.5em;
+   color:white;
+}
